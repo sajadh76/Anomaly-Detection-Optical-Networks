@@ -21,4 +21,8 @@ The following algorithms have been used in this project:
 - Principal Component Analysis (PCA)
 - Explainable AI (GradCAM XAI)
 
+## Execution
+You can simpy run the code on platforms like Google Colab or Kaggle. 
+
+
 
